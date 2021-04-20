@@ -1,0 +1,134 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Projectplace\\10.5SDK\\10.5.17offline\\test10.5.17offlinetts\\app\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13_values-w820dp-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\Projectplace\\10.5SDK\\10.5.17offline\\test10.5.17offlinetts\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "305",
+                        "endColumns": "57",
+                        "endOffsets": "358"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\Projectplace\\10.5SDK\\10.5.17offline\\test10.5.17offlinetts\\app\\build\\intermediates\\res\\merged\\debug\\values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\Projectplace\\10.5SDK\\10.5.17offline\\test10.5.17offlinetts\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "177",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "309"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\Projectplace\\10.5SDK\\10.5.17offline\\test10.5.17offlinetts\\app\\build\\intermediates\\res\\merged\\debug\\values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\Projectplace\\10.5SDK\\10.5.17offline\\test10.5.17offlinetts\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "220",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "366"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\Projectplace\\10.5SDK\\10.5.17offline\\test10.5.17offlinetts\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\Projectplace\\10.5SDK\\10.5.17offline\\test10.5.17offlinetts\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "12,4,3,9,10,7,5,8,6",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "418,102,56,336,377,255,155,299,203",
+                        "endLines": "15,4,3,9,10,7,5,8,6",
+                        "endColumns": "19,52,45,40,39,43,47,36,51",
+                        "endOffsets": "522,150,97,372,412,294,198,331,250"
+                    },
+                    "to": {
+                        "startLines": "2,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,278,331,377,418,458,502,550,587",
+                        "endLines": "5,8,9,10,11,12,13,14,15",
+                        "endColumns": "19,52,45,40,39,43,47,36,51",
+                        "endOffsets": "159,326,372,413,453,497,545,582,634"
+                    }
+                },
+                {
+                    "source": "E:\\Projectplace\\10.5SDK\\10.5.17offline\\test10.5.17offlinetts\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "89,147",
+                        "endColumns": "57,55",
+                        "endOffsets": "142,198"
+                    },
+                    "to": {
+                        "startLines": "6,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "164,222",
+                        "endColumns": "57,55",
+                        "endOffsets": "217,273"
+                    }
+                },
+                {
+                    "source": "E:\\Projectplace\\10.5SDK\\10.5.17offline\\test10.5.17offlinetts\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "186,510",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,665"
+                    },
+                    "to": {
+                        "startLines": "16,23",
+                        "startColumns": "4,4",
+                        "startOffsets": "639,930",
+                        "endLines": "22,25",
+                        "endColumns": "12,12",
+                        "endOffsets": "925,1085"
+                    }
+                }
+            ]
+        }
+    ]
+}

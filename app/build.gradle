@@ -1,0 +1,29 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 26
+    buildToolsVersion "29.0.3"
+
+    defaultConfig {
+        applicationId "com.example.tts_demo"
+        minSdkVersion 17
+        targetSdkVersion 26
+        ndk{
+            abiFilters"armeabi-v7a"
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile files('libs/hci-android.jar')
+    compile files('libs/hci.jar')
+    // 权限请求框架：https://github.com/getActivity/XXPermissions
+    implementation 'com.hjq:xxpermissions:9.2'
+}

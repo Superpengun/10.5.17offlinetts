@@ -1,0 +1,61 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.tts_demo"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="17"
+8-->E:\Projectplace\10.5SDK\10.5.17offline\test10.5.17offlinetts\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="26" />
+9-->E:\Projectplace\10.5SDK\10.5.17offline\test10.5.17offlinetts\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->E:\Projectplace\10.5SDK\10.5.17offline\test10.5.17offlinetts\app\src\main\AndroidManifest.xml:9:5-81
+11-->E:\Projectplace\10.5SDK\10.5.17offline\test10.5.17offlinetts\app\src\main\AndroidManifest.xml:9:22-78
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->E:\Projectplace\10.5SDK\10.5.17offline\test10.5.17offlinetts\app\src\main\AndroidManifest.xml:10:5-67
+12-->E:\Projectplace\10.5SDK\10.5.17offline\test10.5.17offlinetts\app\src\main\AndroidManifest.xml:10:22-64
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->E:\Projectplace\10.5SDK\10.5.17offline\test10.5.17offlinetts\app\src\main\AndroidManifest.xml:11:5-79
+13-->E:\Projectplace\10.5SDK\10.5.17offline\test10.5.17offlinetts\app\src\main\AndroidManifest.xml:11:22-76
+14    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+14-->E:\Projectplace\10.5SDK\10.5.17offline\test10.5.17offlinetts\app\src\main\AndroidManifest.xml:12:5-71
+14-->E:\Projectplace\10.5SDK\10.5.17offline\test10.5.17offlinetts\app\src\main\AndroidManifest.xml:12:22-68
+15    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+15-->E:\Projectplace\10.5SDK\10.5.17offline\test10.5.17offlinetts\app\src\main\AndroidManifest.xml:13:5-80
+15-->E:\Projectplace\10.5SDK\10.5.17offline\test10.5.17offlinetts\app\src\main\AndroidManifest.xml:13:22-77
+16
+17    <application
+17-->E:\Projectplace\10.5SDK\10.5.17offline\test10.5.17offlinetts\app\src\main\AndroidManifest.xml:15:5-30:19
+18        android:allowBackup="true"
+18-->E:\Projectplace\10.5SDK\10.5.17offline\test10.5.17offlinetts\app\src\main\AndroidManifest.xml:16:9-35
+19        android:debuggable="true"
+20        android:icon="@drawable/logo_web"
+20-->E:\Projectplace\10.5SDK\10.5.17offline\test10.5.17offlinetts\app\src\main\AndroidManifest.xml:17:9-42
+21        android:label="10系离线TTS示例"
+21-->E:\Projectplace\10.5SDK\10.5.17offline\test10.5.17offlinetts\app\src\main\AndroidManifest.xml:18:9-35
+22        android:theme="@style/AppTheme" >
+22-->E:\Projectplace\10.5SDK\10.5.17offline\test10.5.17offlinetts\app\src\main\AndroidManifest.xml:19:9-40
+23        <activity
+23-->E:\Projectplace\10.5SDK\10.5.17offline\test10.5.17offlinetts\app\src\main\AndroidManifest.xml:20:9-29:20
+24            android:name="com.example.tts_demo.MainActivity"
+24-->E:\Projectplace\10.5SDK\10.5.17offline\test10.5.17offlinetts\app\src\main\AndroidManifest.xml:21:13-41
+25            android:label="10系离线TTS示例"
+25-->E:\Projectplace\10.5SDK\10.5.17offline\test10.5.17offlinetts\app\src\main\AndroidManifest.xml:22:13-39
+26            android:windowSoftInputMode="stateHidden" >
+26-->E:\Projectplace\10.5SDK\10.5.17offline\test10.5.17offlinetts\app\src\main\AndroidManifest.xml:23:13-54
+27            <intent-filter>
+27-->E:\Projectplace\10.5SDK\10.5.17offline\test10.5.17offlinetts\app\src\main\AndroidManifest.xml:24:13-28:29
+28                <action android:name="android.intent.action.MAIN" />
+28-->E:\Projectplace\10.5SDK\10.5.17offline\test10.5.17offlinetts\app\src\main\AndroidManifest.xml:25:17-69
+28-->E:\Projectplace\10.5SDK\10.5.17offline\test10.5.17offlinetts\app\src\main\AndroidManifest.xml:25:25-66
+29
+30                <category android:name="android.intent.category.LAUNCHER" />
+30-->E:\Projectplace\10.5SDK\10.5.17offline\test10.5.17offlinetts\app\src\main\AndroidManifest.xml:27:17-77
+30-->E:\Projectplace\10.5SDK\10.5.17offline\test10.5.17offlinetts\app\src\main\AndroidManifest.xml:27:27-74
+31            </intent-filter>
+32        </activity>
+33    </application>
+34
+35</manifest>
